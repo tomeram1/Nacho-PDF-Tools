@@ -32,4 +32,4 @@ If you want to explore or modify the code:
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/YourUsername/Nacho-PDF-Tools.git](https://github.com/YourUsername/Nacho-PDF-Tools.git)
+   git clone [https://github.com/tomeram1/Nacho-PDF-Tools.git](https://github.com/tomeram1/Nacho-PDF-Tools.git)
